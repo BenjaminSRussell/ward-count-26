@@ -872,3 +872,6 @@
 {"n":872,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south mouth. direct left open. 8 steps. The lamp stays for the wipe."}
 {"n":873,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Ward gate. Nobody past the south mouth. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":874,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate south mouth. Matt keeps the rebar for the wipe. 3 steps, direct on the left lane, open."}
+{"n":875,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south mouth. direct left open. 4 steps. The rebar stays for the wipe."}
+{"n":876,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Ward gate. Nobody past the south mouth. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":877,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate south mouth. Nia keeps the rebar for the wipe. 6 steps, direct on the left lane, open."}
