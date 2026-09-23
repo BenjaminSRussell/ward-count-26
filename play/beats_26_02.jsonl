@@ -502,3 +502,6 @@
 {"n":502,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at High line. Nobody past the east mouth. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":503,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east mouth. Bess keeps the barrel for the wipe. 7 steps, direct on the left lane, open."}
 {"n":504,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. direct left open. 8 steps. The barrel stays for the wipe."}
+{"n":505,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Ward gate. Nobody past the east mouth. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":506,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east mouth. Matt keeps the crate for the wipe. 3 steps, direct on the left lane, open."}
+{"n":507,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east mouth. direct left open. 4 steps. The crate stays for the wipe."}
