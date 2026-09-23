@@ -286,3 +286,6 @@
 {"n":286,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass west dock. Matt keeps the shutter for the wipe. 7 steps, direct on the left lane, open."}
 {"n":287,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west dock. direct left open. 8 steps. The shutter stays for the wipe."}
 {"n":288,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at the Underpass. Nobody past the west dock. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":289,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass west dock. Nia keeps the shutter for the wipe. 3 steps, direct on the left lane, open."}
+{"n":290,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west dock. direct left open. 4 steps. The shutter stays for the wipe."}
+{"n":291,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at the Underpass. Nobody past the west dock. We wipe in 5 steps. Direct on the left lane, open."}
