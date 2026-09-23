@@ -853,3 +853,6 @@
 {"n":853,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Switchyard. Nobody past the west dock. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":854,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard west dock. Matt keeps the lamp for the wipe. 2 steps, direct on the left lane, open."}
 {"n":855,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west dock. direct left open. 3 steps. The lamp stays for the wipe."}
+{"n":856,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Switchyard. Nobody past the west dock. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":857,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard west dock. Nia keeps the lamp for the wipe. 5 steps, direct on the left lane, open."}
+{"n":858,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west dock. direct left open. 6 steps. The lamp stays for the wipe."}
