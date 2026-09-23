@@ -144,3 +144,6 @@
 {"n":144,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at High line. Nobody past the west mouth. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":145,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line west mouth. Nia keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
 {"n":146,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west mouth. direct left open. 2 steps. The plywood stays for the wipe."}
+{"n":147,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at High line. Nobody past the west mouth. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":148,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line west mouth. Ivo keeps the plywood for the wipe. 4 steps, direct on the left lane, open."}
+{"n":149,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west mouth. direct left open. 5 steps. The plywood stays for the wipe."}
