@@ -149,3 +149,6 @@
 {"n":149,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south mouth. direct left open. 6 steps. The plywood stays for the wipe."}
 {"n":150,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at the pier. Nobody past the south mouth. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":151,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier south mouth. Bess keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
+{"n":152,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south mouth. direct left open. 2 steps. The plywood stays for the wipe."}
+{"n":153,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Clinic roof. Nobody past the south mouth. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":154,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof south mouth. Matt keeps the plywood for the wipe. 4 steps, direct on the left lane, open."}
