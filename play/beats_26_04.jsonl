@@ -458,3 +458,6 @@
 {"n":458,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at South stair. Nobody past the north mouth. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":459,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north mouth. Bess keeps the barrel for the wipe. 3 steps, direct on the left lane, open."}
 {"n":460,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north mouth. direct left open. 4 steps. The barrel stays for the wipe."}
+{"n":461,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at the pier. Nobody past the north mouth. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":462,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier north mouth. Matt keeps the barrel for the wipe. 6 steps, direct on the left lane, open."}
+{"n":463,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north mouth. direct left open. 7 steps. The barrel stays for the wipe."}
