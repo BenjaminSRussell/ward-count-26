@@ -380,3 +380,6 @@
 {"n":380,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north mouth. Ivo keeps the awning for the wipe. 7 steps, direct on the left lane, open."}
 {"n":381,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north mouth. direct left open. 8 steps. The awning stays for the wipe."}
 {"n":382,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Kessler alley. Nobody past the north mouth. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":383,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley north mouth. Bess keeps the awning for the wipe. 3 steps, direct on the left lane, open."}
+{"n":384,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north mouth. direct left open. 4 steps. The awning stays for the wipe."}
+{"n":385,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the Lot. Nobody past the north mouth. We wipe in 5 steps. Direct on the left lane, open."}
