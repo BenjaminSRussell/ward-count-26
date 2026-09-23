@@ -191,3 +191,6 @@
 {"n":191,"kind":"place","name":"Kessler alley east mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east mouth. Bess keeps the hydrant for the wipe. 3 steps, direct on the left lane, open."}
 {"n":192,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east mouth. direct left open. 4 steps. The hydrant stays for the wipe."}
 {"n":193,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at the Lot. Nobody past the east mouth. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":194,"kind":"place","name":"the Lot east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot east mouth. Matt keeps the hydrant for the wipe. 6 steps, direct on the left lane, open."}
+{"n":195,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east mouth. direct left open. 7 steps. The hydrant stays for the wipe."}
+{"n":196,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at the Lot. Nobody past the east mouth. We wipe in 8 steps. Direct on the left lane, open."}
