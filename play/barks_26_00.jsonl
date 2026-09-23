@@ -973,3 +973,6 @@
 {"n":973,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock west mouth. Nia keeps the rebar for the wipe. 3 steps, direct on the left lane, open."}
 {"n":974,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west mouth. direct left open. 4 steps. The rebar stays for the wipe."}
 {"n":975,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at Drydock. Nobody past the west mouth. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":976,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west mouth. Ivo keeps the rebar for the wipe. 6 steps, direct on the left lane, open."}
+{"n":977,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west mouth. direct left open. 7 steps. The rebar stays for the wipe."}
+{"n":978,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at Drydock. Nobody past the west mouth. We wipe in 8 steps. Direct on the left lane, open."}
