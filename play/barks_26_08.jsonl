@@ -101,3 +101,6 @@
 {"n":101,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court west dock. Nia keeps the plywood for the wipe. 5 steps, direct on the left lane, open."}
 {"n":102,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west dock. direct left open. 6 steps. The plywood stays for the wipe."}
 {"n":103,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at Mall court. Nobody past the west dock. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":104,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
+{"n":105,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. direct left open. 2 steps. The plywood stays for the wipe."}
+{"n":106,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Mall court. Nobody past the west dock. We wipe in 3 steps. Direct on the left lane, open."}
