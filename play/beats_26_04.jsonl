@@ -92,3 +92,6 @@
 {"n":92,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Mast yard. Nobody past the north mouth. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":93,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard north mouth. Nia keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
 {"n":94,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north mouth. direct left open. 2 steps. The plywood stays for the wipe."}
+{"n":95,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at Mast yard. Nobody past the north mouth. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":96,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard north mouth. Ivo keeps the plywood for the wipe. 4 steps, direct on the left lane, open."}
+{"n":97,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north mouth. direct left open. 5 steps. The plywood stays for the wipe."}
