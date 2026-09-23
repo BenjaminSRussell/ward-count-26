@@ -65,3 +65,6 @@
 {"n":65,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west dock. Nia keeps the plywood for the wipe. 4 steps, direct on the left lane, open."}
 {"n":66,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west dock. direct left open. 5 steps. The plywood stays for the wipe."}
 {"n":67,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at Kessler alley. Nobody past the west dock. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":68,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west dock. Ivo keeps the plywood for the wipe. 7 steps, direct on the left lane, open."}
+{"n":69,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. direct left open. 8 steps. The plywood stays for the wipe."}
+{"n":70,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Kessler alley. Nobody past the west dock. We wipe in 2 steps. Direct on the left lane, open."}
