@@ -476,3 +476,6 @@
 {"n":476,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west mouth. direct left open. 3 steps. The barrel stays for the wipe."}
 {"n":477,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at High line. Nobody past the west mouth. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":478,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line west mouth. Matt keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
+{"n":479,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west mouth. direct left open. 6 steps. The barrel stays for the wipe."}
+{"n":480,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at High line. Nobody past the west mouth. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":481,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line west mouth. Nia keeps the barrel for the wipe. 8 steps, direct on the left lane, open."}
