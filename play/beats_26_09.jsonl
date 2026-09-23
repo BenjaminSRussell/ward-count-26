@@ -75,3 +75,6 @@
 {"n":75,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at Kessler alley. Nobody past the west dock. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":76,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west dock. Ivo keeps the rope for the wipe. 7 steps, direct on the left lane, open."}
 {"n":77,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. direct left open. 8 steps. The rope stays for the wipe."}
+{"n":78,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Kessler alley. Nobody past the west dock. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":79,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west dock. Bess keeps the rope for the wipe. 3 steps, direct on the left lane, open."}
+{"n":80,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west dock. direct left open. 4 steps. The rope stays for the wipe."}
