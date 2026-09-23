@@ -38,3 +38,6 @@
 {"n":38,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Kessler alley. Nobody past the north mouth. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":39,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley north mouth. Bess keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
 {"n":40,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north mouth. direct left open. 4 steps. The plywood stays for the wipe."}
+{"n":41,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at the Lot. Nobody past the north mouth. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":42,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot north mouth. Matt keeps the plywood for the wipe. 6 steps, direct on the left lane, open."}
+{"n":43,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north mouth. direct left open. 7 steps. The plywood stays for the wipe."}
